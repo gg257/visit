@@ -4,3 +4,5 @@
 [Алгоритмика](https://learn.algoritmika.org/main)
 
 ![картинка](https://shopsales.org/sites/algoritmika.org-medium.jpg)
+
+**но помню не всё**
