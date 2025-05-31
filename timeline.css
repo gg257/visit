@@ -1,0 +1,40 @@
+.ff{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+
+}
+.gg{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    background-color:chocolate;
+    transition: all 1s;
+}
+h1:hover{
+    background-color:coral;
+    transition: all 1s;
+}
+.hh{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+.jj{
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+.kk{
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin: auto
+}
